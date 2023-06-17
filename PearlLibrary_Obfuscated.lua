@@ -44,7 +44,7 @@ local TweenService = game:GetService("TweenService")
 
          PearlLibrary.Name = "PearlLibrary" 
 
-         PearlLibrary.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui") 
+         PearlLibrary.Parent = game.CoreGui
 
          PearlLibrary.Enabled = true 
 
