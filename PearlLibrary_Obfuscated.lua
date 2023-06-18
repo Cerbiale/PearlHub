@@ -890,9 +890,9 @@ Toggler_1.BackgroundTransparency = 1
   
   
   
-                          local tween4 = TweenService:Create(Toggler_1, tweenInfo, {BackgroundTransparency = targetTransparency3})  
+                          local tween3 = TweenService:Create(Toggler_1, tweenInfo, {BackgroundTransparency = targetTransparency3})  
   
-                          local tween3 = TweenService:Create(Toggler_1, tweenInfo, {BackgroundTransparency = targetTransparency4})  
+                          local tween4 = TweenService:Create(Toggler_1, tweenInfo, {BackgroundTransparency = targetTransparency4})  
   
   
   
