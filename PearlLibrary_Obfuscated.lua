@@ -857,7 +857,8 @@ end
   
                           Toggler_1.BorderSizePixel = 0  
   
-                          Toggler_1.Position = UDim2.new(0.933554769, 0,0.137931034, 0)  
+                          Toggler_1.Position = UDim2.new(0.933554769, 0,0.137931034, 0) 
+Toggler_1.BackgroundTransparency = 1   
   
                           Toggler_1.Size = UDim2.new(0, 20,0, 20)  
   
